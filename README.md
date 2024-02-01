@@ -1,4 +1,4 @@
 # Domain-generalization-fault-diagnosis-benchmark
 
 
-We will release out code as soon as possible.
+We will release our code as soon as possible.
