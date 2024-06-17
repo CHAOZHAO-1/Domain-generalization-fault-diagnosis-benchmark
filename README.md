@@ -1,7 +1,7 @@
 
 # Domain-Generalization-Fault-Diagnosis-Benchmark
 
-![Last update](https://img.shields.io/badge/Last%20update-20240520-brightgreen)
+![Last update](https://img.shields.io/badge/Last%20update-20240617-brightgreen)
 
 **Details of the benchmark can be found** [here](https://ars.els-cdn.com/content/image/1-s2.0-S0951832024000395-mmc1.pdf).
 
