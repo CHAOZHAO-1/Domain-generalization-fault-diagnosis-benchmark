@@ -56,7 +56,7 @@ This indicates using data from CWRU, IMS, and JNU as source domains (combining a
 If you have any questions, please feel free to contact me:
 
 - **Name:** Chao Zhao
-- **Email:** zhaochao734@hust.edu.cn
+- **Email:** zhaochao0612@gmail.com
 
 ## BibTeX Citation
 
